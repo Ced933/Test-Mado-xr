@@ -23,9 +23,15 @@ p{
 	color: #686868;
 }
 .container{
+
+	margin-top: 50px;
+	
+	box-sizing: border-box;
+	
+	width: 100%;
 	max-width: 1050px;
-	margin: 0 auto;
-	position: relative;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .display-flex{
